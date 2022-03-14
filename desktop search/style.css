@@ -1,0 +1,110 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: brown;
+    display: flex;
+    color: white;
+}
+
+.hed1 {
+    text-transform: capitalize;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 50%;
+    align-items: center;
+}
+
+.hedd1 {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    word-spacing: 10px;
+    padding: 0%;
+    align-items: center;
+}
+
+.sr {
+    filter: invert(100%);
+}
+
+.image {
+    display: flex;
+}
+
+.img {
+    background-color: brown;
+}
+
+.image {
+    display: flex;
+    margin-left: 10%;
+    color: white;
+}
+
+.img1 {
+    background-color: brown;
+    margin-right: 10%;
+}
+
+.pg1 {
+    display: flex;
+    background-color: black;
+    padding: 5%;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10%;
+}
+
+.pg2 {
+    color: white;
+    display: flex;
+    margin-right: 5%;
+    margin-left: 15%;
+}
+
+.pg3 {
+    filter: invert(100%);
+    border-style: solid;
+    border-radius: 50%;
+}
+
+.pg4 {
+    color: white;
+    display: flex;
+    margin-right: 60%;
+}
+
+.hm {
+    padding-right: 5%;
+}
+
+.fb {
+    padding-left: 5%;
+}
+
+.fr1 {
+    background-color: black;
+}
+
+.fin {
+    display: flex;
+    color: white;
+    margin-right: 10%;
+}
+
+.sb {
+    padding-left: 20%;
+    padding-right: 10%;
+}
+
+.ctc {
+    padding-right: 10%;
+}
+
+footer {
+    display: flex;
+    background-color: #444;
+    align-items: center;
+}
